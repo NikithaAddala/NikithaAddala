@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NikithaAddala
 - 👀 I’m interested in building apps that allows boomers perform their day-to-day shopping (or activities) easily.
 - 🌱 I’m currently learning Data Structures using Python.
-- <!---💞️ I’m looking to collaborate on ... --->
+<!--- 💞️ I’m looking to collaborate on ... --->
 - 📫 You can reach out to  me on nikithaaddala6@gmail.com
 
 <!---
