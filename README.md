@@ -4,7 +4,7 @@ I’m Nikitha Addala - a budding programmer. I'm currently in 6th semester of B.
 
 I believe certifications do not necessarily impart the required knowledge rather building projects does.
 
-I’m currently learning Data Structures using Python and GIT thorugh VSCode.
+I’m currently learning Data Structures using Python and GIT through VSCode.
 
 <!--- Will definitely update this space with more stuff once I gain the required skils. --->
 
